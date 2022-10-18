@@ -1,5 +1,8 @@
 public class latihan {
-  
-  nothakiim
+
+  public static void main(String[] args) {
+    var nothakiim = "Nismara";
+  }
+
 
 }
